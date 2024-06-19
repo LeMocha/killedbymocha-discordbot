@@ -1,0 +1,23 @@
+{
+  "name": "killedbymocha-discordbot",
+  "version": "1.0.0",
+  "description": "Bot Discord qui permet de gérer les projets listés sur killedbyocha.fr",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeMocha/killedbymocha-discordbot.git"
+  },
+  "author": "LeMocha",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LeMocha/killedbymocha-discordbot/issues"
+  },
+  "homepage": "https://github.com/LeMocha/killedbymocha-discordbot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
